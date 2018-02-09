@@ -1,4 +1,4 @@
-#Getting and Cleaning Datasest of Human  Activity Recognition Using Smartphones Dataset Version 1.0
+Getting and Cleaning Datasest of Human  Activity Recognition Using Smartphones Dataset Version 1.0
 
 Study Design
 
